@@ -4,7 +4,7 @@ DOMAIN-SUFFIX, hka-emby1.aliz.work
 DOMAIN-SUFFIX, hka-emby2.aliz.work
 
 # > EmbyPlus 纸片人
-HOST-SUFFIX, embyplus.org
+DOMAIN-SUFFIX, embyplus.org
 
 # > Paul
-HOST-SUFFIX, cf.imetyou.top
+DOMAIN-SUFFIX, cf.imetyou.top
