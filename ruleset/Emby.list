@@ -1,22 +1,14 @@
-# > HKA
-DOMAIN-SUFFIX, hka-emby.aliz.work
-DOMAIN-SUFFIX, hka-emby1.aliz.work
-DOMAIN-SUFFIX, hka-emby2.aliz.work
-
 # > EmbyPlus 纸片人
 DOMAIN-SUFFIX, embyplus.org
 
 # > Paul
-DOMAIN-SUFFIX, cf.imetyou.top
-
-# > Temby
-DOMAIN-SUFFIX, temby856.285286.xyz
+DOMAIN, cf.imetyou.top
 
 # > 惊蛰
-DOMAIN-SUFFIX, emby.jingzhe.pro
-
-# > 1111
-DOMAIN-SUFFIX, new.emby.moe
+DOMAIN, emby.jingzhe.pro
 
 # > Nebula
-DOMAIN-SUFFIX, emby.nebula-media.org
+DOMAIN, emby.nebula-media.org
+
+# > BBFree
+DOMAIN-SUFFIX, beebi.org
