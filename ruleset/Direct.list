@@ -4,3 +4,9 @@ DOMAIN,saika.us.kg
 
 # > 不忘初心博客
 DOMAIN-SUFFIX,pc528.net
+
+# > Cloudflare Tunnel（cloudflared 连边缘必须直连，走代理会 TCP 7844 握手 EOF）
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cftunnel.com
+IP-CIDR,198.41.192.0/24,no-resolve
+IP-CIDR,198.41.200.0/24,no-resolve
